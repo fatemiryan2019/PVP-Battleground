@@ -24,3 +24,4 @@ public class Mage extends PlayerCharacter{
         System.out.printf("WIS: %3d \n", wisdom);
         super.showStats();
     }
+}
